@@ -12,12 +12,11 @@
 
 <br><br>
 
-- :school: `Multimedia Engineering` at [CESUN University](https://www.cesun.edu.mx/).
-- :mortar_board: Completed a `Front-End Developer Certificate Program` at [SDCCE](https://sdcce.edu/).
-- :technologist: Passionate about programming as a solution to every problem.
-- Always `learning new things`.
-- I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-
+- Multimedia Engineering at [CESUN University](https://www.cesun.edu.mx/).
+- Completed a Front-End Developer Certificate Program at [SDCCE](https://sdcce.edu/).
+- Passionate about programming as a solution to every problem.
+- Always learning new things.
+- I’m currently open for a new job opportunity — here is [my resume](http://lnkiy.in/Ahmed_Hossam_Resume).
+- You can visit [my website](https://cutt.ly/Ahmed_Hossam_Website).
 
 <br>
