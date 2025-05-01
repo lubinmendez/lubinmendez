@@ -44,13 +44,14 @@
 
 
 <br/>
+
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
   Connect with me 🤝
 </h3>
 
 <div align="center" class="icons-social">
-  <a href="https://www.linkedin.com/in/saurabhmchavan/" target="_blank">
+  <a href="https://www.linkedin.com/in/lubin-mendez-989103336/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin: 0 10px;">
   </a>
   <a href="https://github.com/100rabhcsmc" target="_blank">
