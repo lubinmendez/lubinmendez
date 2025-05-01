@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/lubin-mendez-989103336/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin: 0 10px;">
   </a>
-  <a href="https://github.com/100rabhcsmc" target="_blank">
+  <a href="https://github.com/mendezLubin" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" style="margin: 0 10px;">
   </a>
   <a href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile" target="_blank">
