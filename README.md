@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1CA152&size=25&center=true&vCenter=true&width=500&height=45&lines=Frontend+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=25&center=true&vCenter=true&width=500&height=45&lines=Frontend+Developer">
   </a>
 </p>
 
@@ -41,7 +41,5 @@
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
 
 
