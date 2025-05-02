@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Lubin Mendez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></h1>
+<h1 align="center">Hi , I'm Lubin Mendez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -55,10 +55,10 @@
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
-<div align="center">
+
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=mendezLubin&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mendezLubin)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=mendezLubin&theme=material-palenight)](https://github.com/mendezLubin)
-</div>
+
 
