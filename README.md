@@ -47,7 +47,11 @@
 
 ## Check out my Social Media
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<a href="#">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="#">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
