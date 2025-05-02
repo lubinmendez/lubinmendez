@@ -49,7 +49,6 @@
 <br/>
 
 <h2>Check out my Social Media</h2>
-
 <a href="https://www.linkedin.com/in/lubin-mendez-989103336/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
