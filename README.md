@@ -8,22 +8,11 @@
 
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
 
-
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-<p>
-Hi! I am a Front-End Developer with a background in Multimedia Engineering. I enjoy turning ideas into visually appealing and functional digital experiences. I believe in continuous learning and see programming as a powerful tool to solve real-world problems.
-</p>
-
-- Multimedia Engineering at [CESUN University](https://www.cesun.edu.mx/).
-- Completed a Front-End Developer Certificate Program at [SDCCE](https://sdcce.edu/).
-- Passionate about programming as a solution to every problem.
-- Always learning new things.
-- I’m currently open for a new job opportunity — here is [my resume](http://lnkiy.in/Ahmed_Hossam_Resume).
-- You can visit [my website](https://cutt.ly/Ahmed_Hossam_Website).
-
+<p>I am a Front-End Developer with a background in Multimedia Engineering. I enjoy turning ideas into visually appealing and functional digital experiences. I believe in continuous learning and see programming as a powerful tool to solve real-world problems.</p>
 
 <ul>
   <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/">CESUN University</a>.</li>
@@ -33,7 +22,6 @@ Hi! I am a Front-End Developer with a background in Multimedia Engineering. I en
   <li>I’m currently open for a new job opportunity — here is <a href="http://lnkiy.in/Ahmed_Hossam_Resume">my resume</a>.</li>
   <li>You can visit <a href="https://cutt.ly/Ahmed_Hossam_Website">my website</a>.</li>
 </ul>
-
 
 <br>
 
@@ -69,7 +57,6 @@ Hi! I am a Front-End Developer with a background in Multimedia Engineering. I en
 <a href="#">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
-
 
 <h2>Github stats:</h2> 
 
