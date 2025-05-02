@@ -9,7 +9,7 @@
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
@@ -22,8 +22,7 @@
 
 <br>
 
-
-## My Skills Include
+<h2>My Skills Include</h2>
 
 <h3> Languages </h3>
 <span> 
@@ -46,7 +45,7 @@
 
 <br/>
 
-## Check out my Social Media
+<h2>Check out my Social Media</h2>
 
 <a href="https://www.linkedin.com/in/lubin-mendez-989103336/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
