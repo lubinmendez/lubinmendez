@@ -13,12 +13,27 @@
 
 <br>
 
+<p>
+Hi! I am a Front-End Developer with a background in Multimedia Engineering. I enjoy turning ideas into visually appealing and functional digital experiences. I believe in continuous learning and see programming as a powerful tool to solve real-world problems.
+</p>
+
 - Multimedia Engineering at [CESUN University](https://www.cesun.edu.mx/).
 - Completed a Front-End Developer Certificate Program at [SDCCE](https://sdcce.edu/).
 - Passionate about programming as a solution to every problem.
 - Always learning new things.
 - I’m currently open for a new job opportunity — here is [my resume](http://lnkiy.in/Ahmed_Hossam_Resume).
 - You can visit [my website](https://cutt.ly/Ahmed_Hossam_Website).
+
+
+<ul>
+  <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/">CESUN University</a>.</li>
+  <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/">SDCCE</a>.</li>
+  <li>Passionate about programming as a solution to every problem.</li>
+  <li>Always learning new things.</li>
+  <li>I’m currently open for a new job opportunity — here is <a href="http://lnkiy.in/Ahmed_Hossam_Resume">my resume</a>.</li>
+  <li>You can visit <a href="https://cutt.ly/Ahmed_Hossam_Website">my website</a>.</li>
+</ul>
+
 
 <br>
 
