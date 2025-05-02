@@ -45,35 +45,24 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  Connect with me 🤝
-</h3>
-
-<div align="center" class="icons-social">
-  <a href="https://www.linkedin.com/in/lubin-mendez-989103336/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin: 0 10px;">
-  </a>
-  <a href="https://github.com/mendezLubin" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" style="margin: 0 10px;">
-  </a>
-  <a href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" style="margin: 0 10px;">
-  </a>
-  <a href="https://dev.to/100rabhcsmc" target="_blank">
-    <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png" style="margin: 0 10px;">
-  </a>
-  <a href="https://instagram.com/100rabhch" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="margin: 0 10px;">
-  </a>
-  <a href="https://twitter.com/100rabhcsmc" target="_blank">
-    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank">
-    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" style="margin: 0 10px;">
-  </a>
-  <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank">
-    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" style="margin: 0 10px;">
-  </a>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 </div>
+
+<!--Icons with links-->
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/lubin-mendez-989103336/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  
+  <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="instagram" height="50" width="50" />
+  </a>
+
+</p>
 
