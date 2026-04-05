@@ -19,8 +19,6 @@
   <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/">SDCCE</a></li>
   <li>Passionate about programming as a solution to every problem</li>
   <li>Always learning new things</li>
-  <li>I’m currently open for a new job opportunity — here is <a href="http://lnkiy.in/Ahmed_Hossam_Resume">my resume</a></li>
-  <li>You can visit <a href="https://cutt.ly/Ahmed_Hossam_Website">my website</a></li>
 </ul>
 
 <br>
@@ -51,10 +49,6 @@
 <h2>Check out my Social Media</h2>
 <a href="https://www.linkedin.com/in/lubin-mendez-989103336/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/@CodePassion8">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
 <h2>Github stats:</h2> 
