@@ -17,14 +17,14 @@
 I have hands-on experience building web applications using HTML, CSS, JavaScript, and React, and I am currently expanding my skills in backend development with Node.js.</p>
 
 <ul>
-  <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/" target="_blank">CESUN University</a></li>
-  <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/" target="_blank">SDCCE</a></li>
+  <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/" target="_blank" rel="noopener noreferrer">CESUN University</a></li>
+  <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/" target="_blank" rel="noopener noreferrer">SDCCE</a></li>
   <li>Technical skills: HTML, CSS, JavaScript, React, Git, GitHub, Node.js (learning), SQL</li>
 </ul>
 
 <p>I am passionate about building software and constantly improving as a developer.</p>
 
-<p>Connect with me on <a href="https://www.linkedin.com/in/lubinmendez/" target="_blank">LinkedIn</a></p>
+<p>Connect with me on <a href="https://www.linkedin.com/in/lubinmendez/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 
 <br>
 
@@ -59,7 +59,7 @@ I have hands-on experience building web applications using HTML, CSS, JavaScript
 
 <h3> Connect with me on LinkedIn </h3>
 <span>
-  <a href="https://www.linkedin.com/in/lubinmendez/ target="_blank">
+  <a href="https://www.linkedin.com/in/lubinmendez/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </span>
