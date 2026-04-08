@@ -53,12 +53,12 @@
 
 <br/>
 
-<li>
-  Connect with me on LinkedIn
+<h3> Connect with me on LinkedIn </h3>
+<span>
   <a href="https://www.linkedin.com/in/lubinmendez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</li>
+</span>
 
 <h2>Github stats:</h2> 
 
