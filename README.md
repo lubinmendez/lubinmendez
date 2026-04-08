@@ -19,6 +19,7 @@
   <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/">SDCCE</a></li>
   <li>Passionate about programming as a solution to every problem</li>
   <li>Always learning new things</li>
+  <li>Connect with me on <a href="https://www.linkedin.com/in/lubinmendez/">LinkedIn</a></li>
 </ul>
 
 <br>
