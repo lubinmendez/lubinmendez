@@ -53,7 +53,7 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=mendezLubin&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mendezLubin)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mendezLubin&theme=material-palenight)](https://github.com/mendezLubin)
+[![](https://github-readme-stats.vercel.app/api?username=lubinmendez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lubinmendez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lubinmendez&theme=material-palenight)](https://github.com/lubinmendez)
 
 
