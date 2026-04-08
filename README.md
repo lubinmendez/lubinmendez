@@ -12,15 +12,19 @@
 
 <br>
 
-<p>I am a Front-End Developer with a background in Multimedia Engineering. I enjoy turning ideas into visually appealing and functional digital experiences. I believe in continuous learning and see programming as a powerful tool to solve real-world problems.</p>
+<p>I am an Associate Banker at JPMorgan Chase, with a background in Multimedia Engineering and a strong interest in transitioning into a full-stack software development role.
+
+I have hands-on experience building web applications using HTML, CSS, JavaScript, and React, and I am currently expanding my skills in backend development with Node.js.</p>
 
 <ul>
   <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/">CESUN University</a></li>
   <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/">SDCCE</a></li>
-  <li>Passionate about programming as a solution to every problem</li>
-  <li>Always learning new things</li>
-  <li>Connect with me on <a href="https://www.linkedin.com/in/lubinmendez/">LinkedIn</a></li>
+  <li>Technical skills: HTML, CSS, JavaScript, React, Git, GitHub, Node.js (learning), SQL</li>
 </ul>
+
+<p>I am passionate about building software and constantly improving as a developer.</p>
+
+<p>Connect with me on <a href="https://www.linkedin.com/in/lubinmendez/">LinkedIn</a></p>
 
 <br>
 
