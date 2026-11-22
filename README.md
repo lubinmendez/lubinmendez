@@ -14,12 +14,12 @@
 
 <p>I am an Associate Banker at JPMorgan Chase, with a background in Multimedia Engineering and a strong interest in transitioning into a Software Engineering role.
 
-I have hands-on experience building web applications using HTML, CSS, JavaScript, and React. I am expanding my backend development knowledge with Java and Spring / Spring Boot (Basic), along with SQL and MySQL. I also use Git and GitHub for version control and have a background in digital design using Figma, Adobe Illustrator, and Adobe Photoshop.</p>
+I have hands-on experience building web applications using HTML, CSS, JavaScript, and React. I am expanding my backend development knowledge with Java and Spring / Spring Boot (Basic), along with SQL and MySQL. I also use Git and GitHub for version control and AI-assisted development tools such as GitHub Copilot to support my coding workflow. Additionally, I have a background in digital design using Figma, Adobe Illustrator, and Adobe Photoshop.</p>
 
 <ul>
   <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/" target="_blank" rel="noopener noreferrer">CESUN University</a></li>
   <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/" target="_blank" rel="noopener noreferrer">SDCCE</a></li>
-  <li>Technical skills: HTML, CSS, JavaScript, React, Java, Spring / Spring Boot (Basic), SQL, MySQL, Git, GitHub, Figma, Adobe Illustrator, Adobe Photoshop.</li>
+  <li>Technical skills: HTML, CSS, JavaScript, React, Java, Spring / Spring Boot (Basic), SQL, MySQL, Git, GitHub, GitHub Copilot, Figma, Adobe Illustrator, Adobe Photoshop.</li>
 </ul>
 
 <p>I am passionate about building software and constantly improving as a developer.</p>
