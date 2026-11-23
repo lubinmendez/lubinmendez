@@ -24,6 +24,9 @@ I have hands-on experience building web applications using HTML, CSS, JavaScript
 
 <p>I am passionate about building software and constantly improving as a developer.</p>
 
+<p>Check out my <a href="https://lubinmendez.github.io/portfolio-lubin-mendez/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
+
+
 <p>Connect with me on <a href="https://www.linkedin.com/in/lubinmendez/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 
 <br>
