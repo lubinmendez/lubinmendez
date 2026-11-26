@@ -18,8 +18,6 @@
 
 <p>My technical experience includes HTML, CSS, JavaScript, React, and Java, along with foundational knowledge of SQL and MySQL. I am also developing my backend skills with Spring and Spring Boot.</p>
 
-<p>I enjoy building software projects, exploring different areas of software engineering, and continuously improving my programming skills.</p>
-
 <p>Check out my <a href="https://lubinmendez.github.io/portfolio-lubin-mendez/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
 
 
