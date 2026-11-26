@@ -12,9 +12,9 @@
 
 <br>
 
-<p>Software developer with a background in Multimedia Engineering, hands-on experience in web development, and professional experience as an Associate Banker at JPMorgan Chase.</p>
+<p>Software developer with a background in Multimedia Engineering and hands-on experience in web development.</p>
 
-<p>My experience in banking provides firsthand understanding of banking operations, internal processes, and customer needs.</p>
+<p>Interested in pursuing a Software Engineering career within the financial services industry. Currently working as an Associate Banker at JPMorgan Chase, where I have gained firsthand experience with banking operations, internal processes, and customer needs. This experience has strengthened my interest in how technology can improve financial services.</p>
 
 <p>My technical experience includes HTML, CSS, JavaScript, React, and Java, along with foundational knowledge of SQL and MySQL. I am also developing my backend skills with Spring and Spring Boot.</p>
 
