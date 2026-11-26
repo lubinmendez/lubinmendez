@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=25&center=true&vCenter=true&width=500&height=45&lines=Frontend+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=25&center=true&vCenter=true&width=500&height=45&lines=Software+Developer">
   </a>
 </p>
 
@@ -12,22 +12,41 @@
 
 <br>
 
-<p>I am an Associate Banker at JPMorgan Chase, with a background in Multimedia Engineering and a strong interest in transitioning into a Software Engineering role.
+<p>Software developer with a background in Multimedia Engineering, hands-on experience in web development, and professional experience as an Associate Banker at JPMorgan Chase.</p>
 
-I have hands-on experience building web applications using HTML, CSS, JavaScript, and React. I am expanding my backend development knowledge with Java and Spring / Spring Boot (Basic), along with SQL and MySQL. I also use Git and GitHub for version control and AI-assisted development tools such as GitHub Copilot to support my coding workflow. Additionally, I have a background in digital design using Figma, Adobe Illustrator, and Adobe Photoshop.</p>
+<p>My experience in banking provides firsthand understanding of banking operations, internal processes, and customer needs.</p>
 
-<ul>
-  <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/" target="_blank" rel="noopener noreferrer">CESUN University</a></li>
-  <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/" target="_blank" rel="noopener noreferrer">SDCCE</a></li>
-  <li>Technical skills: HTML, CSS, JavaScript, React, Java, Spring / Spring Boot (Basic), SQL, MySQL, Git, GitHub, GitHub Copilot, Figma, Adobe Illustrator, Adobe Photoshop.</li>
-</ul>
+<p>My technical experience includes HTML, CSS, JavaScript, React, and Java, along with foundational knowledge of SQL and MySQL. I am also developing my backend skills with Spring and Spring Boot.</p>
 
-<p>I am passionate about building software and constantly improving as a developer.</p>
+<p>I enjoy building software projects, exploring different areas of software engineering, and continuously improving my programming skills.</p>
 
 <p>Check out my <a href="https://lubinmendez.github.io/portfolio-lubin-mendez/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
 
 
 <p>Connect with me on <a href="https://www.linkedin.com/in/lubinmendez/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+
+<br>
+<h2>Education</h2>
+
+<ul>
+  <li><strong>Bachelor of Multimedia Engineering</strong> – <a href="https://www.cesun.edu.mx/" target="_blank" rel="noopener noreferrer">CESUN University</a></li>
+  <li><strong>Front-End Web Developer Certificate</strong> – <a href="https://sdcce.edu/" target="_blank" rel="noopener noreferrer">San Diego College of Continuing Education (SDCCE)</a></li>
+</ul>
+
+<br>
+
+<h2>Certifications & Training</h2>
+
+<ul>
+  <li><strong>Java University – From Zero to Expert</strong> (Udemy) – In Progress</li>
+  <li><strong>Chase Bank – SQL Training</strong> (DataCamp)
+    <ul>
+      <li>Introduction to SQL</li>
+      <li>Intermediate SQL</li>
+    </ul>
+  </li>
+  <li><strong>React for Beginners</strong> (Udemy) – React fundamentals for frontend development.</li>
+</ul>
 
 <br>
 
@@ -70,7 +89,7 @@ I have hands-on experience building web applications using HTML, CSS, JavaScript
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </span>
 
-<h3> Design tools </h3>
+<h3> Design Tools </h3>
 <span>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
