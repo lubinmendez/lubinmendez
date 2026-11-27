@@ -12,7 +12,7 @@
 
 <br>
 
-<p>Software developer with a technical background in HTML, CSS, JavaScript, React, and Java, along with foundational knowledge of SQL and MySQL. I am also developing my backend skills with Spring and Spring Boot.</p>
+<p>Software developer with a technical background in HTML, CSS, JavaScript, React, and Java, along with foundational knowledge of SQL and MySQL. I am also developing my backend skills with Spring and Spring Boot, and use GitHub Copilot for AI-assisted development.</p>
 
 <p>My goal is to apply my programming knowledge to software solutions in the financial services sector. Working as an Associate Banker at JPMorgan Chase has exposed me to the operational side of banking and shown me how technology supports financial services and business processes.</p>
 
