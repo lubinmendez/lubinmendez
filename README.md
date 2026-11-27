@@ -14,7 +14,7 @@
 
 <p>Software developer with a technical background in HTML, CSS, JavaScript, React, and Java, along with foundational knowledge of SQL and MySQL. I am also developing my backend skills with Spring and Spring Boot.</p>
 
-<p>I am interested in pursuing a Software Engineering career within the financial services industry. I currently work as an Associate Banker at JPMorgan Chase, where I have developed an understanding of banking procedures, internal workflows, and the importance of accuracy and security in financial services. This experience has strengthened my interest in how technology can improve the industry.</p>
+<p>My goal is to apply my programming knowledge to software solutions in the financial services sector. Working as an Associate Banker at JPMorgan Chase has exposed me to the operational side of banking and shown me how technology supports financial services and business processes.</p>
 
 <p>Check out my <a href="https://lubinmendez.github.io/portfolio-lubin-mendez/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
 
